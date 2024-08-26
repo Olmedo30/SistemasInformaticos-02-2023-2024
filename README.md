@@ -6,5 +6,5 @@ La informática es la ciencia que se encarga de estudiar todo lo relacionado con
 sistemas informáticos, incluyendo desde los temas relativos a su arquitectura y su 
 fabricación, hasta los temas referidos a la organización y almacenamiento de la 
 información, sin olvidar los relativos a la creación y uso del software, o a la formación 
-del personal informático..
+del personal informático.
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
